@@ -1,0 +1,35 @@
+body{
+    background-color:turquoise;
+}
+frame{
+    position: fixed;
+}
+#box{
+    position:fixed;
+    top:10%;
+    bottom:5%;
+    right:20%;
+    left:10%;
+    
+    height:80%;
+    width:70%;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   background-image: url('https://www.shareicon.net/data/512x512/2015/09/01/94156_search_512x512.png'),url("https://st3.depositphotos.com/3757793/35340/v/450/depositphotos_353406218-stock-illustration-camera-icon-flat-style-isolated.jpg"),url("https://i.pinimg.com/originals/d3/f1/a6/d3f1a6e7d0fd5e2113014dd629cca2d6.png");;
+   background-size:5%,5%,2%;
+ 
+   background-repeat: no-repeat;
+
+   background-position:1% center,95% center,99% center;
+   padding-left:10%;
+   
+   
+ 
+  background-repeat: no-repeat;
+}
+img{
+    position:fixed;
+    left:82%;
+    height:80%;
+    width:10%
+}
